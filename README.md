@@ -1,5 +1,5 @@
 # Tensorflow
-I am updating my learnings while preparing for the Tensorflow Developer Certification Exam to this repository.
+I am updating my notes while preparing for the Tensorflow Developer Certification Exam to this repository.
 
 
 
